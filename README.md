@@ -20,7 +20,8 @@ risk-poc/
 ├── notebooks/
 │   └── risk_eda_model.ipynb
 └── scripts/
-├── synthetic_data.py
-├── compute_features.py
-├── train_model.py
-└── serve_model.py
+    ├── synthetic_data.py
+    ├── compute_features.py
+    ├── train_model.py
+    └── serve_model.py
+
